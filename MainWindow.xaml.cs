@@ -26,6 +26,9 @@ namespace Winop
         public MainWindow()
         {
             InitializeComponent();
+
+            ExtendsContentIntoTitleBar = true;
+            SetTitleBar(TitleBarControl);
         }
     }
 }

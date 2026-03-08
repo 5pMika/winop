@@ -1,5 +1,5 @@
 build-artifacts/
 .cursor
-.vs/
+.vs
 bin/
 obj/
