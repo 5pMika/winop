@@ -1,9 +1,0 @@
----
-alwaysApply: true
----
-
-# Here are the goals that also serve as rules, regarding to the GUI (Graphical User Interface) and its development.
-
-## Goal #1: We aim for a professional enterprise-grade UI.
-
-## Goal #2: Dynamic theme is a must, this means that the user MUST be able to change whether he wants to use the app that we are developing in a dark theme or in a light theme, or in the same theme as he has set for his windows operating system.

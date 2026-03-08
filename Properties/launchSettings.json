@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Winop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Winop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
